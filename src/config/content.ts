@@ -25,7 +25,7 @@ export const cardContent = {
   },
   finale: {
     title: '生日快乐',
-    wishes: ['愿所遇皆温柔，', '所行皆顺意。'],
+    wishes: ['所遇皆温柔，', '所行皆顺意。'],
     footer: '小栗 · 2026.08.12',
   },
   controls: {
